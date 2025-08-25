@@ -108,4 +108,4 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## 🌟 About Me
 
-Hi there! I'm **Sai Sohith Kommana**. I’m an Data Engineer & Data Analyst on a mission to learn knowledge and make working with data enjoyable and engaging!
+Hi there! I'm **Sai Sohith Kommana**. I’m a Data Engineer & Data Analyst on a mission to learn knowledge about data and make working with data enjoyable and engaging!
